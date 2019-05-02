@@ -1,0 +1,8 @@
+{
+	"name": "wisdom-bot",
+	"version": "1.0.0",
+	"description": "Wisdom itself comes to spare you some knowledge!",
+	"main": "bot.js"
+	"author": "LunarStar_"
+	"dependencies": {}
+}
